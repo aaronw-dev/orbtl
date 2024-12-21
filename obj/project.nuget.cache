@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6GFOhrnhE7E=",
+  "success": true,
+  "projectFilePath": "c:\\Users\\Aaron\\ORBTL\\orbtl.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aaron\\.nuget\\packages\\microsoft.toolkit.highperformance\\7.1.2\\microsoft.toolkit.highperformance.7.1.2.nupkg.sha512",
+    "C:\\Users\\Aaron\\.nuget\\packages\\raylib-cslo\\4.0.1\\raylib-cslo.4.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
